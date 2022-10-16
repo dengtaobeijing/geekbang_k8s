@@ -5,6 +5,7 @@
 ##推送镜像
 ![img_5.png](img_5.png)
 ##运行容器
-![img_6.png](img_6.png)
+![img_8.png](img_8.png)
+![img_9.png](img_9.png)
 ##容器的ip地址
 ![img_7.png](img_7.png)
